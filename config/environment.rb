@@ -2,7 +2,7 @@
 
 # Load the Rails application.
 require_relative 'application'
-require_relative 'rollbar'
+require_relative 'initializers/rollbar'
 
 notify = lambda do |e|
   Rollbar.with_config(use_async: false) do
