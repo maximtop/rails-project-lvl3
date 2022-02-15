@@ -6,3 +6,5 @@
 
 
 ## Yet another advertising site built with Ruby on Rails for educational purposes
+
+Deployed on [maximtop-ads.herokuapp.com](https://maximtop-ads.herokuapp.com/)
